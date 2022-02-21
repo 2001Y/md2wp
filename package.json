@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "node-fetch": "^3.2.0"
+  }
+}
