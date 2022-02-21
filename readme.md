@@ -1,6 +1,6 @@
-# Markdon file to WaordPress Converter
+# Markdown file to WaordPress Converter
 
-Hugo や Hexo などの Markdown ファイルを使った記事を WorddPress に移行するコード。 WP REST API を使っている。完全に自分用なので好きに改変して使ってほしい。
+Hugo や Hexo などの Markdown ファイルを使った記事を WorddPress に移行する Node のコード。 WP REST API を使っている。完全に自分用なので好きに改変して使ってほしい。
 
 以下の Front matter に対応している。ファイル名は slug に指定されている。
 
