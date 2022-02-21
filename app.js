@@ -1,7 +1,7 @@
 // ▼ ▼ ▼ ▼ ▼ ▼ ▼  OPTION  ▼ ▼ ▼ ▼ ▼ ▼ ▼
 
 const URL = "https://yoshikitam.wpx.jp/2001y/";
-const WP_user = "2001Y"; //ユーザー名
+const WP_user = "2001Y"; //WPユーザー名
 const WP_AppPass = "9Qx0 WFj6 Ih8Q OriT e1SY rDFp"; // Application Passwords
 
 // ▲ ▲ ▲ ▲ ▲ ▲ ▲  OPTION  ▲ ▲ ▲ ▲ ▲ ▲ ▲
@@ -122,4 +122,6 @@ const flst = fs
     });
     // 記事ごとの処理
   }
+
+  console.log("移行DONE");
 })();
